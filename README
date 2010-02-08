@@ -1,0 +1,8 @@
+A very short example using phantom types in Ocaml. See the source code
+comments for details.
+
+Build:
+  ocamlc -o phantom phantom.ml
+  
+Run:
+  ./phantom
